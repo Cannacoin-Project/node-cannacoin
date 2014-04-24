@@ -15,7 +15,7 @@ You'll need a running instance of [cannacoind](https://github.com/cannacoin-proj
 
 Then, install the node-cannacoin NPM package.
 
-`npm install git://github.com/cannacoin-project/node-cannacoin-master/`
+`npm install git://github.com/cannacoin-project/node-cannacoin/`
 
 ## Examples
 

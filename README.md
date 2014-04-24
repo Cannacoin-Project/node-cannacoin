@@ -1,4 +1,4 @@
-# A Node.js cannacoin Client!
+# A Node.js Cannacoin Client!
 
 ![cannacoin](https://github.com/Cannacoin-Project/node-cannacoin-master/blob/master/node-cannacoin.png?raw=true)
 

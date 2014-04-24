@@ -540,9 +540,9 @@ nodeunit test/test-node-cannacoin.js
 
 ## Bounties
 
-[cannacoin](http://www.cannacoin.com) donation address is DE4isu3m2RBma7nGEwnaX8cu4Y2m2J2g8Q
+[cannacoin](http://www.cannacoin.com) donation address is CdmcSJ8aokHkkZS1W6KCvXiJEGw4sGkRVj
 
-Donations in [cannacoin](http://www.cannacoin.com) will be used for bounties. The first bounty will be awarded for creating a unit test suite. As a side note: I encourage all GitHub repository owners to post a donation address so their community can easily support development financially. If you accept donations at your repository, [I'll send you a reward!](http://www.reddit.com/r/cannacoindev/comments/203ojs/add_a_cannacoin_donation_link_in_your_github_repo/)
+Donations in [cannacoin](http://www.cannacoin.cc) will be used for bounties. The first bounty will be awarded for creating a unit test suite. As a side note: I encourage all GitHub repository owners to post a donation address so their community can easily support development financially. 
 
 
 

@@ -11,7 +11,7 @@ node-cannacoin is a cannacoin client for Node.js. It is a fork of the excellent 
 
 ## Dependencies
 
-You'll need a running instance of [cannacoind](https://github.com/cannacoin-project/cannacoin) to connect with. If you're running Debian/Ubuntu, this worked for me: http://www.dogeco.in/wiki/index.php/cannacoind
+You'll need a running instance of [cannacoind](https://github.com/cannacoin-project/cannacoin) to connect with. 
 
 Then, install the node-cannacoin NPM package.
 

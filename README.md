@@ -1,6 +1,6 @@
 # A Node.js cannacoin Client!
 
-![cannacoin](updatetoimagelocation)
+![cannacoin](https://github.com/Cannacoin-Project/node-cannacoin-master/blob/master/node-cannacoin.png)
 
 node-cannacoin is a cannacoin client for Node.js. It is a fork of the excellent Kapitalize Bitcoin Client (now removed from GitHub) intended for use with cannacoin. The purpose of this repository is:
 

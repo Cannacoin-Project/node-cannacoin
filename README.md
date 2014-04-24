@@ -448,14 +448,14 @@ var cannacoin = require('cannacoin')({
 })
 
 cannacoin.set('pass', 'somn')
-cannacoin.set({port:22555})
+cannacoin.set({port:7142})
 
 ```
 
 Available options and default values:
 
 + host *localhost*
-+ port *22555*
++ port *7142*
 + user
 + pass
 + passphrasecallback

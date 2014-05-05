@@ -4,8 +4,8 @@ var fs = require('fs'),
 var config = {
     rpchost: "127.0.0.1",
     rpcport: 7142,
-    rpcuser: "testnet_user",
-    rpcpassword: "testnet_pass"
+    rpcuser: "miner1",
+    rpcpassword: "miner1"
 };
 ca = fs.readFileSync('./test/test.crt')
 options = {

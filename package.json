@@ -5,7 +5,7 @@
     "keywords": ["cannacoin"],
     "repository": "git://github.com/cannacoin-project/node-cannacoin.git",
     "author": "Josh Dellay <josh@cannacoin.cc",
-    "main": "lib/dogecoin.js",
+    "main": "lib/cannacoin.js",
     "engines": { "node": ">= 0.4.0" },
     "devDependencies": {
         "nodeunit": "*"
